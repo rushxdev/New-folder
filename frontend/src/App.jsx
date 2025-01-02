@@ -8,6 +8,7 @@ function App() {
         hello world
       </dev>
       <div>Yoo</div>
+      <div>gitmerge conflict</div>
     </>
   )
 }
