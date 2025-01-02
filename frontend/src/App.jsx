@@ -8,6 +8,8 @@ function App() {
         hello world
       </dev>
       <div>Yoo</div>
+
+      <div>சடகா்யளடபதழ</div>
     </>
   )
 }
