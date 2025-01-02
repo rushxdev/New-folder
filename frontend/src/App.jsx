@@ -7,6 +7,7 @@ function App() {
       <dev>
         hello world
       </dev>
+      <div>Yoo</div>
     </>
   )
 }
