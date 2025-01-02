@@ -16,7 +16,7 @@ function App() {
 
       <div>helooooo kohomadaaaa  </div>
 
-
+      <div>helooooo i'm dinuviiii  </div>
     </>
   )
 }
