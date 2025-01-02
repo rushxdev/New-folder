@@ -16,6 +16,8 @@ function App() {
 
       <div>helooooo kohomadaaaa  </div>
 
+      <div>mage nama sanduni man inne lankave</div>
+
 
     </>
   )
