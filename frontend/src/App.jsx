@@ -9,6 +9,8 @@ function App() {
       </dev>
       <div>Yoo</div>
       <div>gitmerge conflict</div>
+
+      <div>சடகா்யளடபதழ</div>
     </>
   )
 }
