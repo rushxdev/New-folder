@@ -21,6 +21,7 @@ function App() {
 
       <div>mage nama sanduni man inne lankave and mn fit eke inne</div>
 
+      <div>issue solved</div>
 
 
     </>
