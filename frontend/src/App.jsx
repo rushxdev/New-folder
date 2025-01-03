@@ -19,7 +19,7 @@ function App() {
 
       <div>helooooo i'm dinuviiii  </div>
 
-      <div>mage nama sanduni man inne lankave</div>
+      <div>mage nama sanduni man inne lankave and mn fit eke inne</div>
 
 
 
