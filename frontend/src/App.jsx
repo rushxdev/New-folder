@@ -23,6 +23,8 @@ function App() {
 
       <div>issue solved</div>
 
+      <div>Mama Jhajini mama pruthuwiye minisek</div>
+
 
     </>
   )
